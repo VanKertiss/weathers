@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/VanKertiss/weathers.git/static/css/main.a7007e3c.chunk.css",
+    "main.js": "/VanKertiss/weathers.git/static/js/main.a3eed17f.chunk.js",
+    "main.js.map": "/VanKertiss/weathers.git/static/js/main.a3eed17f.chunk.js.map",
+    "runtime-main.js": "/VanKertiss/weathers.git/static/js/runtime-main.5d6ad478.js",
+    "runtime-main.js.map": "/VanKertiss/weathers.git/static/js/runtime-main.5d6ad478.js.map",
+    "static/js/2.12b2450b.chunk.js": "/VanKertiss/weathers.git/static/js/2.12b2450b.chunk.js",
+    "static/js/2.12b2450b.chunk.js.map": "/VanKertiss/weathers.git/static/js/2.12b2450b.chunk.js.map",
+    "index.html": "/VanKertiss/weathers.git/index.html",
+    "static/css/main.a7007e3c.chunk.css.map": "/VanKertiss/weathers.git/static/css/main.a7007e3c.chunk.css.map",
+    "static/js/2.12b2450b.chunk.js.LICENSE.txt": "/VanKertiss/weathers.git/static/js/2.12b2450b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d6ad478.js",
+    "static/js/2.12b2450b.chunk.js",
+    "static/css/main.a7007e3c.chunk.css",
+    "static/js/main.a3eed17f.chunk.js"
+  ]
+}
